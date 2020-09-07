@@ -64,6 +64,9 @@ Please mark all changes in change log and use the issue from GitHub
 ## Feature
 -   \#2363 Update branch version
 -   \#2510 Upgrade Milvus config
+-   \#3213 Allow users to specify a distance type at runtime for Flat index
+-   \#3254 Allow more choices for the parameter ‘m’ of CPU IVF_PQ
+-   \#3606 Searching auto turn into CPU when the parameter 'nprobe' of IVF is larger than 2048
 
 ## Improvement
 -   \#2381 Upgrade FAISS to 1.6.3
